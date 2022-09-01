@@ -2,7 +2,7 @@
 
 This repository contains the supplementary materials to the paper:
 
-``"Artificial Vocal Learning Guided by Phoneme Recognition and Visual Information"`` by Krug et al.
+["Artificial Vocal Learning Guided by Phoneme Recognition and Visual Information"](https://doi.org/10.36227/techrxiv.20502114.v1) by ``Krug et al.``
 
 # Content
 
